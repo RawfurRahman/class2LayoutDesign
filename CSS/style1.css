@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+}
+.googleImg{
+	width: 200px;
+	height: 100px;
+    margin: 0px 550px;
+}
+p{
+	
+}
+.color1{
+	color: skyblue;
+}
+.color2{
+	color: #d62b2b;
+}
+.color3{
+	color: seagreen;
+}
+.color4{
+	color: #c1c108;
+}
+.text1{
+	font-size: 30px;
+	text-align: center;
+}
+.container{
+	width: 1345px;
+    margin: 0px auto;
+    font-size: 40px;
+    color: #333;
+    font-family: sans-serif;
+}
+.img{
+	max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.text2{
+	font-size: 40px;
+	text-align: center;
+	margin: 10px 1px;
+	color: #FFFFFF;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: seagreen;
+}
